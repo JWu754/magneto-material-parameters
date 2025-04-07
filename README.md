@@ -1,3 +1,3 @@
 # magneto-material-parameters
 
-Materials parameters with references
+Material parameters with references.
