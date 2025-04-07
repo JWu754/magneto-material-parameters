@@ -1,16 +1,7 @@
 Parameter,Pt,GGG
-Ms (MA m^-1),,
-Aex (pJ m^-1),,
-γ (rad MHz A^-1 m^-1),,
 c11 (GPa),347 [10],285.7 [8]
 c12 (GPa),250 [10],114.9 [8]
 c44 (GPa),75 [10],90.2 [8]
 ρ (kg m^-3),21450 [10],7085 [8]
-K1 (J m^-3),,
-λ100 (ppm),,
-B1 (MJ m^-3),,
-λ111 (ppm),,
-B2 (MJ m^-3),,
-α (Gilbert damping),,
 β (s) (Stiffness damping),,3E-15 [9]
 a (nm) (bulk value),"1.245 [22], 1.241 [23], 1.2324 [20]","1.238 [19], 1.2376 [20]"
